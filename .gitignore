@@ -1,0 +1,10 @@
+nixos.qcow2
+result
+result-*
+**/__pycache__/
+chromium-src/
+
+# Go build artifacts (compiled binaries)
+dbus-bridges/bin/
+dbus-bridges/*-bridge
+dbus-bridges/mojo-stub
